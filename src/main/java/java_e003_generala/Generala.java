@@ -11,5 +11,7 @@ public class Generala {
     public static void main (String [] args) {
         Generala g = new Generala();
         System.out.println(g.jugada("11111"));
+        //aiudaaaa
+        
     }
 }
